@@ -1,6 +1,8 @@
 # Maleprogram
 "Mal Løs!" is a Kinect painting application developed for kids. It features three game modes: Freeform painting, Paint a picture and Catch the dot. The three modes are supposed to engage kids in moving and can also be used as rehabilitation. Each mode lasts for 1 minute and a new mode is then randomly selected. When no one is engaging with the game, the game shows screenshots of the players who have played it.
 
+The program requires Unity 5.5.1f1 to run (used for the Kinect library).
+
 ### Freeform Drawing
 ![Freeform painting. A color is assigned to each player's hand.](https://raw.githubusercontent.com/med-material/Maleprogram/master/paint.png)
 
